@@ -19,6 +19,14 @@ I'm passionate about continuous learning, writing clean and maintainable code, a
 
 **If you're interested in technology, software development, or collaborating on projects, let's connect!**
 
+<p>
+    <a href="https://isurubsuraweera.me">🌐 Portfolio</a>
+    &nbsp; | &nbsp;
+    <a href="https://www.linkedin.com/in/isuru-b-suraweera-79b27627b">💼 LinkedIn</a>
+    &nbsp; | &nbsp;
+    <a href="https://github.com/isuru-bimsara">💻 GitHub</a>
+  </p>
+
 ---
 
 ## 🌟 Skills & Experience
