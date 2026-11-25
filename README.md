@@ -19,14 +19,6 @@ I'm passionate about continuous learning, writing clean and maintainable code, a
 
 **If you're interested in technology, software development, or collaborating on projects, let's connect!**
 
-<p>
-    <a href="https://isurubsuraweera.me">🌐 Portfolio</a>
-    &nbsp; | &nbsp;
-    <a href="https://www.linkedin.com/in/isuru-b-suraweera-79b27627b">💼 LinkedIn</a>
-    &nbsp; | &nbsp;
-    <a href="https://github.com/isuru-bimsara">💻 GitHub</a>
-  </p>
-
 ---
 
 ## 🌟 Skills & Experience
@@ -96,15 +88,31 @@ For web development, I mostly use VS Code. I have also worked with multiple IDEs
 ## 🤝 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/isuru-b-suraweera-79b27627b/" target="_blank">
+
+  <a href="https://isurubsuraweera.me" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="40" height="40" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/isuru-b-suraweera-79b27627b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:bimsarai005@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/isuru-bimsara" target="_blank">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub" />
   </a>
+
+  <p>
+    <a href="https://isurubsuraweera.me">🌐 Portfolio</a>
+    &nbsp; | &nbsp;
+    <a href="https://www.linkedin.com/in/isuru-b-suraweera-79b27627b">💼 LinkedIn</a>
+    &nbsp; | &nbsp;
+    <a href="https://github.com/isuru-bimsara">💻 GitHub</a>
+  </p>
+
 </div>
 
 ---
